@@ -1,118 +1,134 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=220&section=header&text=J%20A%20G%20W%20E%20Y&fontSize=60&fontAlignY=38&desc=Architect%20of%20kage95.com%20%E2%80%A2%20Indie%20Game%20Developer%20%E2%80%A2%20Digital%20Artisan&descAlignY=58&descFontSize=18&fontColor=ffffff" width="100%" alt="Jagwey Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=220&section=header&text=JAGWEY&fontSize=62&fontAlignY=38&desc=Software%20Architect%20%E2%80%A2%20Indie%20Game%20Developer%20%E2%80%A2%20Founder&descAlignY=58&descFontSize=19&fontColor=ffffff" width="100%" alt="Jagwey Header"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E53935&center=true&vCenter=true&width=650&lines=Kurucu+%26+Geli%C5%9Ftirici+%40+kage95.com;Ba%C4%9F%C4%B1ms%C4%B1z+Indie+Oyun+Geli%C5%9Ftiricisi;Full-Stack+Mimar%C4%B1+%26+Yapay+Zeka+Sistemleri;Feodal+Japonya+Mitolojisi+%26+Karanl%C4%B1k+Evrenler;Kodun%2C+Sanat%C4%B1n+ve+G%C3%B6lgelerin+Bulu%C5%9Ftu%C4%9Fu+Yer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=700&lines=Founder+%26+Lead+Architect+%40+kage95.com;Indie+Game+Developer+%E2%80%94+Dark+Action+Mechanics;Full-Stack+Engineer+%E2%80%94+TypeScript%2C+Next.js%2C+Node.js;Autonomous+AI+Systems+%26+Self-Learning+Engines;Building+High-Performance+Modern+Digital+Products" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Platform-kage95.com-e53935?style=for-the-badge&logo=torii-gate&logoColor=white" alt="kage95.com"></a>
-  <a href="https://github.com/jagwey/kage-discord-bot"><img src="https://img.shields.io/badge/Discord%20Bot-Kage--95-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kage Bot"></a>
-  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Contact-jagweyy%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Platform-kage95.com-FF4655?style=flat-square&logo=google-chrome&logoColor=white" alt="kage95.com"></a>
+  <a href="https://github.com/jagwey/kage-discord-bot"><img src="https://img.shields.io/badge/Discord_Engine-Kage--95-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Kage Engine"></a>
+  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Contact-jagweyy%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### ⛩️ Hakkımda • Dijital Evrenler & Kodun Zarafeti
+## Overview
 
-Merhaba! Ben **Jagwey**. Modern web teknolojileri, yüksek performanslı backend mimarileri, yapay zeka ajanları ve karanlık feodal atmosferli video oyunları geliştiren bir bağımsız yazılımcı ve dijital dünya mimarıyım.
+Software architect, founder, and independent game developer focused on building high-performance web platforms, autonomous AI systems, and dark fantasy game mechanics. 
 
-Fikirleri sadece çalıştırmakla kalmaz; onları estetik bir görsel dil, kusursuz kullanıcı deneyimi ve sağlam bir yazılım mimarisiyle yaşayan projelere dönüştürürüm.
+Obsessed with architectural clean-code principles, sub-second latency, modern dark-mode aesthetics, and taking complex ideas from concept to production-grade digital ecosystems.
 
-- 🏮 **[kage95.com](https://kage95.com)** platformunun kurucusuyum; binlerce okura hitap eden, ultra hızlı, modern bir manga okuma ve klan ekosistemi inşa ediyorum.
-- ⚔️ **Kage (Indie Oyun)** projesi üzerinde çalışıyorum; feodal samuray estetiğini, akıcı dövüş mekaniklerini ve karanlık fantezi anlatısını bir araya getiren bağımsız bir oyun dünyası geliştiriyorum.
-- 🤖 **Kage-95 Discord Botu** ile harici hiçbir bota ihtiyaç duymayan, Google Gemini yapay zekalı, kendi kendine öğrenen hafıza motorlu ve RPG dövüş/ekonomi sistemine sahip sunucu ekosistemi tasarladım.
-- 🎨 Sanat, piksel estetiği, manga kültürü ve yapay zeka inovasyonlarını aynı potada eritmeyi seviyorum.
-
----
-
-### ⚔️ Silah Deposu • Teknolojiler & Beceriler
-
-<p align="center">
-  <strong>Frontend & Arayüz</strong><br>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-<p align="center">
-  <strong>Backend, Yapay Zeka & Çekirdek</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Discord.js%20v14-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
-  <img src="https://img.shields.io/badge/Google%20Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<p align="center">
-  <strong>Oyun Tasarımı, Sanat & Araçlar</strong><br>
-  <img src="https://img.shields.io/badge/Game_Design-E53935?style=for-the-badge&logo=unity&logoColor=white" alt="Game Design" />
-  <img src="https://img.shields.io/badge/Pixel_Art-9C27B0?style=for-the-badge&logo=artstation&logoColor=white" alt="Pixel Art" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-</p>
+- **Platform Engineering**: Founder & lead developer of [kage95.com](https://kage95.com), an ultra-fast digital manga reading platform built with modern web technologies, automated content pipelines, and cloud caching.
+- **Game Development**: Solo developer building **Kage**, an independent action game featuring responsive combat dynamics, custom pixel art, fluid mechanics, and deep dark fantasy lore.
+- **AI & Automation**: Architect of **Kage-95 Engine**, a multi-system Discord bot driven by Google Gemini AI, persistent memory engines, real-time turn-based combat simulations, and extensive server automation.
+- **Full-Stack Mastery**: End-to-end execution from database schemas and REST/WebSocket APIs to responsive frontends and cloud deployment pipelines.
 
 ---
 
-### 🩸 Başlıca Şaheserler & Projeler
+## Tech Stack & Tooling
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,nodejs,express,python,postgres,mongodb,redis,docker,git,github,vscode,figma&perline=9&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+### Core Competencies
+
+- **Languages & Runtimes**: TypeScript, JavaScript (ESM/Node.js), Python, HTML5, CSS3 / Modern Web Standards
+- **Frontend Architecture**: Next.js (App Router, SSR, SSG), React.js, Tailwind CSS, Responsive UI Design, State Management
+- **Backend & APIs**: Node.js, Express.js, RESTful API Design, WebSockets, Discord.js v14, Event-Driven Architecture
+- **Databases & Caching**: PostgreSQL, MongoDB, Redis, Persistent Key-Value & Atomically-Guarded JSON Engines
+- **AI & Intelligence**: Google Gemini API, Prompt Engineering, Agentic Tool Calling, Self-Learning Context Memory
+- **Game Development & Creative**: Core Game Loops, Combat State Machines, Pixel Art, Narrative Worldbuilding, Level Design
+- **Infrastructure & DevOps**: Git, GitHub Actions, Docker, Render, Linux CLI, Performance Profiling & Optimization
+
+---
+
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>⛩️ kage95.com</h3>
-      <p>Modern, şimşek hızında manga okuma platformu, otomatik bölüm indeksleme ve topluluk klan sistemi.</p>
-      <a href="https://kage95.com"><b>Siteyi Keşfet →</b></a>
-    </td>
-    <td width="33%" align="center">
-      <h3>⚔️ Kage Indie Game</h3>
-      <p>Karanlık feodal Japonya mitolojisinde geçen, akıcı samuray dövüş mekanikleri ve piksel sanatlı bağımsız oyun projesi.</p>
-      <b>Yapım Aşamasında 🎮</b>
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 Kage-95 Discord Bot</h3>
-      <p>59 Slash komutlu, Gemini AI akıllı sohbet & hafıza motorlu, RPG zindan/demirci/düello sistemli yeni nesil Discord botu.</p>
-      <a href="https://github.com/jagwey/kage-discord-bot"><b>Depoyu İncele →</b></a>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="35%">Project</th>
+      <th width="50%">Description & Highlights</th>
+      <th width="15%">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b><a href="https://kage95.com">kage95.com</a></b><br>
+        <i>Modern Manga Platform</i>
+      </td>
+      <td>
+        High-performance web reader platform designed for speed, responsiveness, and seamless media delivery. Features real-time API integrations, background indexing poller, and an integrated community ecosystem.
+      </td>
+      <td>
+        <code>Live & Active</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Kage Indie Game</b><br>
+        <i>Action Combat Indie Game</i>
+      </td>
+      <td>
+        Independent game set in a dark feudal fantasy universe. Focuses on sharp katana combat mechanics, enemy behavior state machines, atmospheric visual style, and bespoke pixel art assets.
+      </td>
+      <td>
+        <code>In Development</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b><a href="https://github.com/jagwey/kage-discord-bot">Kage-95 Discord Engine</a></b><br>
+        <i>All-in-One Autonomous Bot</i>
+      </td>
+      <td>
+        59 slash commands, Google Gemini AI core with persistent learning memory, interactive modal registration, audit logging, RPG dungeon & boss battles, turn-based duels, and 28-piece custom sticker set.
+      </td>
+      <td>
+        <code>Production Ready</code>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-### 📊 GitHub İstatistikleri
+## Engineering Principles
+
+- **01 / Performance First**: Minimal bundles, optimized assets, zero memory leaks, sub-millisecond data access, and instant user feedback loops.
+- **02 / End-to-End Ownership**: Complete mastery of the stack — from data modeling and system infrastructure to pixel-perfect UI execution.
+- **03 / Clean Visual Hierarchy**: High-contrast typography, frictionless user flows, purposeful animations, and sleek dark aesthetic.
+- **04 / Autonomous Systems**: Self-healing processes, atomic file-safe writes, structured error handling, and intelligent background workers.
+
+---
+
+## Live GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jagwey&show_icons=true&theme=radical&title_color=e53935&icon_color=e53935&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false" width="48%" alt="Jagwey GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagwey&layout=compact&theme=radical&title_color=e53935&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&hide_border=false" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jagwey&show_icons=true&theme=radical&title_color=ff4655&icon_color=ff4655&text_color=e0e6ed&bg_color=090d13&border_color=21262d&hide_border=false" width="49%" alt="Jagwey GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagwey&layout=compact&theme=radical&title_color=ff4655&text_color=e0e6ed&bg_color=090d13&border_color=21262d&hide_border=false" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagwey&theme=radical&background=0D1117&border=30363D&stroke=E53935&ring=E53935&fire=E53935&currStreakLabel=E53935" width="97%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagwey&theme=radical&background=090D13&border=21262D&stroke=FF4655&ring=FF4655&fire=FF4655&currStreakLabel=FF4655" width="99%" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 İletişim & Bağlantılar
+## Connect
 
 <p align="center">
-  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Web-kage95.com-e53935?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/E--Posta-jagweyy%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/jagwey"><img src="https://img.shields.io/badge/GitHub-Jagwey-181717?style=flat-square&logo=github&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <br>
-  <em>"Sessizce yürü, derine in. Kod çelik gibi keskin, hikaye gölgeler kadar derin olsun."</em><br>
-  <strong>— Jagwey</strong>
+  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Web-kage95.com-FF4655?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Email-jagweyy%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/jagwey"><img src="https://img.shields.io/badge/GitHub-Jagwey-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
