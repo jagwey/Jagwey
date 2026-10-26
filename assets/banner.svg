@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080b10" />
+      <stop offset="50%" stop-color="#0e131b" />
+      <stop offset="100%" stop-color="#06080c" />
+    </linearGradient>
+
+    <!-- Crimson Cyber Glow -->
+    <radialGradient id="centerGlow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ff4655" stop-opacity="0.30" />
+      <stop offset="45%" stop-color="#e53935" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#ff4655" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Text Metallic Gradient -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="45%" stop-color="#ffffff" />
+      <stop offset="70%" stop-color="#ff858d" />
+      <stop offset="100%" stop-color="#ff4655" />
+    </linearGradient>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1" />
+    </pattern>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff4655" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#ff4655" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#ff4655" stop-opacity="0.8" />
+    </linearGradient>
+
+    <style>
+      @keyframes pulse {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 0.3; }
+      }
+      @keyframes sweep {
+        0% { transform: translateX(-100%); }
+        100% { transform: translateX(100%); }
+      }
+      .beacon {
+        animation: pulse 2.5s infinite ease-in-out;
+      }
+      .tech-chip {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+        font-size: 11px;
+        letter-spacing: 1.5px;
+        fill: #c9d1d9;
+      }
+      .title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 900;
+        letter-spacing: 14px;
+      }
+      .subtitle {
+        font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+        font-size: 13px;
+        letter-spacing: 5px;
+        font-weight: 500;
+        fill: #8b949e;
+      }
+    </style>
+  </defs>
+
+  <!-- Base Canvas -->
+  <rect width="1000" height="280" fill="url(#bgGrad)" rx="12" />
+  
+  <!-- Cyber Grid -->
+  <rect width="1000" height="280" fill="url(#grid)" rx="12" />
+  
+  <!-- Center Ambient Glow -->
+  <rect width="1000" height="280" fill="url(#centerGlow)" rx="12" />
+
+  <!-- Outer Border Frame -->
+  <rect x="1.5" y="1.5" width="997" height="277" rx="11" fill="none" stroke="url(#borderGrad)" stroke-width="1.5" />
+
+  <!-- Top Cyber Status Bar -->
+  <g transform="translate(40, 34)">
+    <circle cx="0" cy="0" r="4" fill="#ff4655" class="beacon" />
+    <text x="14" y="4" font-family="'JetBrains Mono', monospace" font-size="10" fill="#ff4655" font-weight="700" letter-spacing="2">SYS.READY // ARCHITECT MODE ACTIVE</text>
+    <text x="920" y="4" text-anchor="end" font-family="'JetBrains Mono', monospace" font-size="10" fill="#484f58" letter-spacing="2">v2.5.0 • HIGH PERFORMANCE</text>
+  </g>
+
+  <!-- Corner Brackets -->
+  <path d="M 20 50 L 20 20 L 50 20" fill="none" stroke="#ff4655" stroke-width="2" />
+  <path d="M 980 50 L 980 20 L 950 20" fill="none" stroke="#ff4655" stroke-width="2" />
+  <path d="M 20 230 L 20 260 L 50 260" fill="none" stroke="#ff4655" stroke-width="2" />
+  <path d="M 980 230 L 980 260 L 950 260" fill="none" stroke="#ff4655" stroke-width="2" />
+
+  <!-- Center Typography -->
+  <g transform="translate(500, 125)" text-anchor="middle">
+    <!-- Big Bold Title -->
+    <text x="0" y="0" font-size="58" class="title" fill="url(#textGrad)">J A G W E Y</text>
+    
+    <!-- Thin Sleek Accent Line -->
+    <line x1="-220" y1="22" x2="220" y2="22" stroke="#ff4655" stroke-opacity="0.6" stroke-width="2" />
+    <polygon points="0,19 -6,22 0,25 6,22" fill="#ff4655" />
+
+    <!-- Subtitle -->
+    <text x="0" y="48" class="subtitle">PLATFORM FOUNDER • SOFTWARE ARCHITECT • INDIE GAME DEVELOPER</text>
+  </g>
+
+  <!-- Bottom Technical Chips -->
+  <g transform="translate(500, 230)" text-anchor="middle">
+    <!-- Chip 1: kage95.com -->
+    <g transform="translate(-315, 0)">
+      <rect x="-85" y="-14" width="170" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <circle cx="-65" cy="0" r="3" fill="#ff4655" />
+      <text x="4" y="4" text-anchor="middle" class="tech-chip">kage95.com</text>
+    </g>
+
+    <!-- Chip 2: Kage Indie Game -->
+    <g transform="translate(-105, 0)">
+      <rect x="-95" y="-14" width="190" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <circle cx="-75" cy="0" r="3" fill="#58a6ff" />
+      <text x="6" y="4" text-anchor="middle" class="tech-chip">KAGE INDIE GAME</text>
+    </g>
+
+    <!-- Chip 3: Autonomous AI Core -->
+    <g transform="translate(115, 0)">
+      <rect x="-95" y="-14" width="190" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <circle cx="-75" cy="0" r="3" fill="#bc8cff" />
+      <text x="6" y="4" text-anchor="middle" class="tech-chip">AUTONOMOUS AI CORE</text>
+    </g>
+
+    <!-- Chip 4: Next.js & TypeScript -->
+    <g transform="translate(325, 0)">
+      <rect x="-85" y="-14" width="170" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <circle cx="-65" cy="0" r="3" fill="#3fb950" />
+      <text x="6" y="4" text-anchor="middle" class="tech-chip">FULL-STACK TECH</text>
+    </g>
+  </g>
+</svg>

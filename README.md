@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=240&section=header&text=J%20A%20G%20W%20E%20Y&fontSize=68&fontAlignY=36&desc=Founder%20%26%20Software%20Architect%20%7C%20Indie%20Game%20Developer%20%7C%20Systems%20Engineer&descAlignY=58&descFontSize=20&fontColor=ffffff" width="100%" alt="Jagwey Header"/>
-</p>
-
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=750&lines=const+architect+%3D+%22Jagwey%22%3B;Founder+%26+Lead+Architect+%40+kage95.com;Solo+Indie+Game+Developer+%E2%80%94+Dark+Action+Mechanics;Full-Stack+Systems+Engineer+%E2%80%94+Next.js%2C+TypeScript%2C+Node.js;Autonomous+AI+Agents+%26+Self-Learning+Context+Engines;Crafting+Production-Grade+Scalable+Digital+Ecosystems" alt="Typing SVG" />
-  </a>
+  <img src="assets/banner.svg" width="100%" alt="Jagwey Banner"/>
 </p>
 
 <p align="center">
@@ -161,10 +155,6 @@ interface DeveloperProfile {
 ## Live Performance & GitHub Metrics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagwey&theme=radical&margin_w=10&margin_h=10&row=1&column=7&no-bg=true" width="100%" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jagwey&show_icons=true&theme=radical&title_color=ff4655&icon_color=ff4655&text_color=e0e6ed&bg_color=090d13&border_color=21262d&hide_border=false" width="49%" alt="Jagwey GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagwey&layout=compact&theme=radical&title_color=ff4655&text_color=e0e6ed&bg_color=090d13&border_color=21262d&hide_border=false" width="49%" alt="Top Languages" />
 </p>
@@ -184,11 +174,5 @@ interface DeveloperProfile {
 </p>
 
 <p align="center">
-  <br>
-  <em>"Architecture is the art of turning complexity into invisible elegance."</em><br>
-  <strong>— Jagwey</strong>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,2,0&height=120&section=footer" width="100%" alt="Jagwey Footer"/>
+  <img src="assets/footer.svg" width="100%" alt="Jagwey Footer"/>
 </p>
