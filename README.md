@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Enterprise-JageTech-FF4655?style=for-the-badge&logo=shield&logoColor=white" alt="JageTech"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Enterprise-JagTech-FF4655?style=for-the-badge&logo=shield&logoColor=white" alt="JagTech"></a>
   <a href="https://kage95.com"><img src="https://img.shields.io/badge/Platform-kage95.com-FF4655?style=for-the-badge&logo=google-chrome&logoColor=white" alt="kage95.com"></a>
   <a href="https://github.com/jagwey/kage-discord-bot"><img src="https://img.shields.io/badge/System-Kage--95_Engine-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kage Engine"></a>
   <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Direct-jagweyy%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
@@ -13,17 +13,17 @@
 
 ## Executive Profile
 
-I am an independent software architect, digital platform founder, and game creator driven by a relentless focus on high-performance web platforms, autonomous AI systems, and responsive game combat loops. As the founder of **JageTech**, I lead the design and implementation of production-grade digital ecosystems.
+I am an independent software architect, digital platform founder, and game creator driven by a relentless focus on high-performance web platforms, autonomous AI systems, and responsive game combat loops. As the founder of **JagTech**, I lead the design and implementation of production-grade digital ecosystems.
 
 My work sits at the intersection of technical rigor, scalable systems architecture, and dark-aesthetic user experiences. I don't just build features; I architect complete, self-sustaining platforms from bare database design and microservices to sub-millisecond edge delivery and immersive interfaces.
 
 ```typescript
 interface DeveloperProfile {
   name: "Jagwey";
-  company: "JageTech";
-  status: "Founder & Lead Architect at JageTech";
+  company: "JagTech";
+  status: "Founder & Lead Architect at JagTech";
   roles: [
-    "Founder & CEO (JageTech)",
+    "Founder & CEO (JagTech)",
     "Platform Architect (kage95.com)",
     "Indie Game Developer (Kage)",
     "Full-Stack & Autonomous AI Systems Engineer"

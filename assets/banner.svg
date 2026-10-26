@@ -101,16 +101,16 @@
     <polygon points="0,19 -6,22 0,25 6,22" fill="#ff4655" />
 
     <!-- Subtitle -->
-    <text x="0" y="48" class="subtitle">FOUNDER @ JAGETECH • SOFTWARE ARCHITECT • INDIE GAME DEVELOPER</text>
+    <text x="0" y="48" class="subtitle">FOUNDER @ JAGTECH • SOFTWARE ARCHITECT • INDIE GAME DEVELOPER</text>
   </g>
 
   <!-- Bottom Technical Chips -->
   <g transform="translate(500, 230)" text-anchor="middle">
-    <!-- Chip 1: JageTech -->
+    <!-- Chip 1: JagTech -->
     <g transform="translate(-315, 0)">
       <rect x="-85" y="-14" width="170" height="28" rx="14" fill="#161b22" stroke="#ff4655" stroke-width="1" />
       <circle cx="-65" cy="0" r="3" fill="#ff4655" />
-      <text x="4" y="4" text-anchor="middle" class="tech-chip" fill="#ff4655" font-weight="700">JAGETECH</text>
+      <text x="4" y="4" text-anchor="middle" class="tech-chip" fill="#ff4655" font-weight="700">JAGTECH</text>
     </g>
 
     <!-- Chip 2: kage95.com -->
