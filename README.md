@@ -1,31 +1,63 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=220&section=header&text=JAGWEY&fontSize=62&fontAlignY=38&desc=Software%20Architect%20%E2%80%A2%20Indie%20Game%20Developer%20%E2%80%A2%20Founder&descAlignY=58&descFontSize=19&fontColor=ffffff" width="100%" alt="Jagwey Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,12&height=240&section=header&text=J%20A%20G%20W%20E%20Y&fontSize=68&fontAlignY=36&desc=Founder%20%26%20Software%20Architect%20%7C%20Indie%20Game%20Developer%20%7C%20Systems%20Engineer&descAlignY=58&descFontSize=20&fontColor=ffffff" width="100%" alt="Jagwey Header"/>
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=700&lines=Founder+%26+Lead+Architect+%40+kage95.com;Indie+Game+Developer+%E2%80%94+Dark+Action+Mechanics;Full-Stack+Engineer+%E2%80%94+TypeScript%2C+Next.js%2C+Node.js;Autonomous+AI+Systems+%26+Self-Learning+Engines;Building+High-Performance+Modern+Digital+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF4655&center=true&vCenter=true&width=750&lines=const+architect+%3D+%22Jagwey%22%3B;Founder+%26+Lead+Architect+%40+kage95.com;Solo+Indie+Game+Developer+%E2%80%94+Dark+Action+Mechanics;Full-Stack+Systems+Engineer+%E2%80%94+Next.js%2C+TypeScript%2C+Node.js;Autonomous+AI+Agents+%26+Self-Learning+Context+Engines;Crafting+Production-Grade+Scalable+Digital+Ecosystems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Platform-kage95.com-FF4655?style=flat-square&logo=google-chrome&logoColor=white" alt="kage95.com"></a>
-  <a href="https://github.com/jagwey/kage-discord-bot"><img src="https://img.shields.io/badge/Discord_Engine-Kage--95-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Kage Engine"></a>
-  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Contact-jagweyy%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Platform-kage95.com-FF4655?style=for-the-badge&logo=google-chrome&logoColor=white" alt="kage95.com"></a>
+  <a href="https://github.com/jagwey/kage-discord-bot"><img src="https://img.shields.io/badge/System-Kage--95_Engine-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kage Engine"></a>
+  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Direct-jagweyy%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## Overview
+## Executive Profile
 
-Software architect, founder, and independent game developer focused on building high-performance web platforms, autonomous AI systems, and dark fantasy game mechanics. 
+I am an independent software architect, digital platform founder, and game creator driven by a relentless focus on high-performance web platforms, autonomous AI systems, and responsive game combat loops. 
 
-Obsessed with architectural clean-code principles, sub-second latency, modern dark-mode aesthetics, and taking complex ideas from concept to production-grade digital ecosystems.
+My work sits at the intersection of technical rigor, scalable systems architecture, and dark-aesthetic user experiences. I don't just build features; I architect complete, self-sustaining platforms from bare database design and microservices to sub-millisecond edge delivery and immersive interfaces.
 
-- **Platform Engineering**: Founder & lead developer of [kage95.com](https://kage95.com), an ultra-fast digital manga reading platform built with modern web technologies, automated content pipelines, and cloud caching.
-- **Game Development**: Solo developer building **Kage**, an independent action game featuring responsive combat dynamics, custom pixel art, fluid mechanics, and deep dark fantasy lore.
-- **AI & Automation**: Architect of **Kage-95 Engine**, a multi-system Discord bot driven by Google Gemini AI, persistent memory engines, real-time turn-based combat simulations, and extensive server automation.
-- **Full-Stack Mastery**: End-to-end execution from database schemas and REST/WebSocket APIs to responsive frontends and cloud deployment pipelines.
+```typescript
+interface DeveloperProfile {
+  name: "Jagwey";
+  status: "Shipping Production Software & Developing Indie Games";
+  roles: [
+    "Platform Founder & Architect (kage95.com)",
+    "Indie Game Developer (Kage)",
+    "Full-Stack & Autonomous AI Systems Engineer"
+  ];
+  coreStack: ["TypeScript", "Next.js", "Node.js", "PostgreSQL", "Docker", "Python"];
+  philosophy: "Zero bloat. Sub-second latencies. End-to-end craftsmanship.";
+}
+```
+
+---
+
+## Platform Pillars & Deep Capabilities
+
+### 01 / Web Platform Architecture & Edge Delivery
+- **Full-Cycle Platform Ownership**: Architect and lead engineer of **[kage95.com](https://kage95.com)**, a lightning-fast modern digital manga reading ecosystem built for continuous reading and large-scale media distribution.
+- **Performance Engineering**: SSR/SSG caching pipelines, automated background content scrapers & pollers, zero cumulative layout shift (CLS), and progressive image loading.
+- **Scalable Service Layer**: Decoupled RESTful APIs, event-driven socket pipelines, resilient error boundaries, and self-healing background workers.
+
+### 02 / Game Design & Real-Time Combat Mechanics
+- **Independent Game Development**: Solo development of **Kage**, an action-adventure indie game set in a dark feudal fantasy universe.
+- **Combat & Animation Systems**: Responsive frame-data architecture, state-machine combat flows (parry, dodge, katana strikes, stamina management), and pixel-perfect hitbox/hurtbox collision math.
+- **Worldbuilding & Asset Creation**: Complete visual identity, custom dark-aesthetic pixel art sprite sheets, environment design, and atmospheric audio direction.
+
+### 03 / Autonomous AI & Agentic Frameworks
+- **AI Core & Decision Brains**: Architect of the **Kage-95 Engine**, deploying multi-turn conversational agents with Google Gemini 2.5 Flash and fault-tolerant fallbacks.
+- **Tool Calling & Execution Runtime**: Secure schema-driven function calling enabling the AI to inspect system metrics, execute server moderation, and manage economy data dynamically.
+- **Self-Learning Long-Term Memory**: Autonomous memory ingestion pipelines storing user context, server culture, and custom operational rules to adapt persona behavior on the fly.
+
+### 04 / Systems Engineering & Data Integrity
+- **Atomic Operations**: Safe concurrent file storage engines (`jsonDepo`) utilizing in-memory write queues and lock files to prevent race conditions without database overhead.
+- **Security & RBAC**: Strict role-based access control, hierarchy checks, cryptographic sanitization, and leak-proof environment management.
 
 ---
 
@@ -33,30 +65,31 @@ Obsessed with architectural clean-code principles, sub-second latency, modern da
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,nodejs,express,python,postgres,mongodb,redis,docker,git,github,vscode,figma&perline=9&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,html,css,vite,nodejs,express,python,postgres,mongodb,redis,docker,git,github,linux,vscode,figma,postman&perline=11&theme=dark" alt="Technical Arsenal" />
   </a>
 </p>
 
-### Core Competencies
+### Technical Arsenal Breakdown
 
-- **Languages & Runtimes**: TypeScript, JavaScript (ESM/Node.js), Python, HTML5, CSS3 / Modern Web Standards
-- **Frontend Architecture**: Next.js (App Router, SSR, SSG), React.js, Tailwind CSS, Responsive UI Design, State Management
-- **Backend & APIs**: Node.js, Express.js, RESTful API Design, WebSockets, Discord.js v14, Event-Driven Architecture
-- **Databases & Caching**: PostgreSQL, MongoDB, Redis, Persistent Key-Value & Atomically-Guarded JSON Engines
-- **AI & Intelligence**: Google Gemini API, Prompt Engineering, Agentic Tool Calling, Self-Learning Context Memory
-- **Game Development & Creative**: Core Game Loops, Combat State Machines, Pixel Art, Narrative Worldbuilding, Level Design
-- **Infrastructure & DevOps**: Git, GitHub Actions, Docker, Render, Linux CLI, Performance Profiling & Optimization
+| Domain | Technologies & Frameworks | Methodologies & Specialties |
+| :--- | :--- | :--- |
+| **Frontend & UI** | TypeScript, Next.js, React.js, Tailwind CSS, Vite, HTML5, Modern CSS | Server-Side Rendering (SSR), Static Generation (SSG), Responsive Design, Dark UI Architecture |
+| **Backend & Core** | Node.js (ESM), Express.js, Python, REST APIs, WebSockets, Discord.js v14 | Event-Driven Architecture, Microservices, Async Concurrency, Background Workers |
+| **Data & Storage** | PostgreSQL, MongoDB, Redis, In-Memory Atomic JSON Engines | ACID Guarantees, Cache Invalidation, Concurrent Write Locks, Schema Migrations |
+| **AI & Automation** | Google Gemini API, Agentic Tool Calling, Prompt Systems, LLM Memory | Multi-Turn Context Injection, Autonomous Persona Adaptation, Intent Classification |
+| **Game Dev & Creative** | Core Game Loops, State Machines, Pixel Art Creation, Level Design | Frame Data Optimization, Combat Mechanics, Sprite Animation, Audio Engineering |
+| **DevOps & Cloud** | Git, GitHub Actions, Docker, Render, Linux CLI, Bash | CI/CD Pipelines, Zero-Downtime Deployment, Infrastructure as Code, Monitoring |
 
 ---
 
-## Featured Projects
+## Featured Master Works
 
 <table>
   <thead>
     <tr>
-      <th width="35%">Project</th>
-      <th width="50%">Description & Highlights</th>
-      <th width="15%">Status</th>
+      <th width="30%">Project</th>
+      <th width="55%">Architectural Highlights & Features</th>
+      <th width="15%">Stage</th>
     </tr>
   </thead>
   <tbody>
@@ -66,7 +99,7 @@ Obsessed with architectural clean-code principles, sub-second latency, modern da
         <i>Modern Manga Platform</i>
       </td>
       <td>
-        High-performance web reader platform designed for speed, responsiveness, and seamless media delivery. Features real-time API integrations, background indexing poller, and an integrated community ecosystem.
+        High-performance web reader platform engineered for instantaneous chapter transitions, dynamic search autocompletion, automated background content indexing, and a reader clan ecosystem.
       </td>
       <td>
         <code>Live & Active</code>
@@ -75,10 +108,10 @@ Obsessed with architectural clean-code principles, sub-second latency, modern da
     <tr>
       <td>
         <b>Kage Indie Game</b><br>
-        <i>Action Combat Indie Game</i>
+        <i>Dark Action Combat Indie Game</i>
       </td>
       <td>
-        Independent game set in a dark feudal fantasy universe. Focuses on sharp katana combat mechanics, enemy behavior state machines, atmospheric visual style, and bespoke pixel art assets.
+        A gritty, dark fantasy action game built around precision katana combat, enemy behavior state machines, bespoke pixel art aesthetics, and narrative worldbuilding.
       </td>
       <td>
         <code>In Development</code>
@@ -87,10 +120,10 @@ Obsessed with architectural clean-code principles, sub-second latency, modern da
     <tr>
       <td>
         <b><a href="https://github.com/jagwey/kage-discord-bot">Kage-95 Discord Engine</a></b><br>
-        <i>All-in-One Autonomous Bot</i>
+        <i>Autonomous Multi-System Bot</i>
       </td>
       <td>
-        59 slash commands, Google Gemini AI core with persistent learning memory, interactive modal registration, audit logging, RPG dungeon & boss battles, turn-based duels, and 28-piece custom sticker set.
+        59 slash commands, Gemini AI core with persistent learning memory, interactive registration modal forms, audit logging, RPG dungeon & boss battles, turn-based AI duels, and 28-piece custom sticker set.
       </td>
       <td>
         <code>Production Ready</code>
@@ -101,16 +134,35 @@ Obsessed with architectural clean-code principles, sub-second latency, modern da
 
 ---
 
-## Engineering Principles
+## Code Quality & Engineering Manifesto
 
-- **01 / Performance First**: Minimal bundles, optimized assets, zero memory leaks, sub-millisecond data access, and instant user feedback loops.
-- **02 / End-to-End Ownership**: Complete mastery of the stack — from data modeling and system infrastructure to pixel-perfect UI execution.
-- **03 / Clean Visual Hierarchy**: High-contrast typography, frictionless user flows, purposeful animations, and sleek dark aesthetic.
-- **04 / Autonomous Systems**: Self-healing processes, atomic file-safe writes, structured error handling, and intelligent background workers.
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │  01. PERFORMANCE OBSESSION                                   │
+  │      Sub-second page loads. Zero unnecessary re-renders.     │
+  │      Lightweight payloads and memory leak vigilance.         │
+  ├──────────────────────────────────────────────────────────────┤
+  │  02. END-TO-END SYSTEM MASTERY                               │
+  │      Architecting the full lifecycle: database schema,       │
+  │      backend logic, API interfaces, and visual ergonomics.   │
+  ├──────────────────────────────────────────────────────────────┤
+  │  03. PURPOSEFUL MINIMALISM                                   │
+  │      No bloated frameworks. No extraneous dependencies.      │
+  │      Clean, self-documenting code with sharp boundaries.     │
+  ├──────────────────────────────────────────────────────────────┤
+  │  04. RESILIENT AUTONOMY                                      │
+  │      Self-recovering background jobs. Atomic file writes.    │
+  │      Graceful degradation under external API outages.        │
+  └──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Live GitHub Analytics
+## Live Performance & GitHub Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jagwey&theme=radical&margin_w=10&margin_h=10&row=1&column=7&no-bg=true" width="100%" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jagwey&show_icons=true&theme=radical&title_color=ff4655&icon_color=ff4655&text_color=e0e6ed&bg_color=090d13&border_color=21262d&hide_border=false" width="49%" alt="Jagwey GitHub Stats" />
@@ -123,14 +175,20 @@ Obsessed with architectural clean-code principles, sub-second latency, modern da
 
 ---
 
-## Connect
+## Connect & Inquiries
 
 <p align="center">
-  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Web-kage95.com-FF4655?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Email-jagweyy%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kage95.com"><img src="https://img.shields.io/badge/Platform-kage95.com-FF4655?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:jagweyy@gmail.com"><img src="https://img.shields.io/badge/Direct-jagweyy%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/jagwey"><img src="https://img.shields.io/badge/GitHub-Jagwey-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,2,0&height=100&section=footer" width="100%" alt="Jagwey Footer"/>
+  <br>
+  <em>"Architecture is the art of turning complexity into invisible elegance."</em><br>
+  <strong>— Jagwey</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,4,2,0&height=120&section=footer" width="100%" alt="Jagwey Footer"/>
 </p>
