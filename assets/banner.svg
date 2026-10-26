@@ -101,37 +101,37 @@
     <polygon points="0,19 -6,22 0,25 6,22" fill="#ff4655" />
 
     <!-- Subtitle -->
-    <text x="0" y="48" class="subtitle">PLATFORM FOUNDER • SOFTWARE ARCHITECT • INDIE GAME DEVELOPER</text>
+    <text x="0" y="48" class="subtitle">FOUNDER @ JAGETECH • SOFTWARE ARCHITECT • INDIE GAME DEVELOPER</text>
   </g>
 
   <!-- Bottom Technical Chips -->
   <g transform="translate(500, 230)" text-anchor="middle">
-    <!-- Chip 1: kage95.com -->
+    <!-- Chip 1: JageTech -->
     <g transform="translate(-315, 0)">
-      <rect x="-85" y="-14" width="170" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <rect x="-85" y="-14" width="170" height="28" rx="14" fill="#161b22" stroke="#ff4655" stroke-width="1" />
       <circle cx="-65" cy="0" r="3" fill="#ff4655" />
-      <text x="4" y="4" text-anchor="middle" class="tech-chip">kage95.com</text>
+      <text x="4" y="4" text-anchor="middle" class="tech-chip" fill="#ff4655" font-weight="700">JAGETECH</text>
     </g>
 
-    <!-- Chip 2: Kage Indie Game -->
+    <!-- Chip 2: kage95.com -->
     <g transform="translate(-105, 0)">
+      <rect x="-95" y="-14" width="190" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
+      <circle cx="-75" cy="0" r="3" fill="#ff4655" />
+      <text x="6" y="4" text-anchor="middle" class="tech-chip">kage95.com</text>
+    </g>
+
+    <!-- Chip 3: Kage Indie Game -->
+    <g transform="translate(115, 0)">
       <rect x="-95" y="-14" width="190" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
       <circle cx="-75" cy="0" r="3" fill="#58a6ff" />
       <text x="6" y="4" text-anchor="middle" class="tech-chip">KAGE INDIE GAME</text>
     </g>
 
-    <!-- Chip 3: Autonomous AI Core -->
-    <g transform="translate(115, 0)">
-      <rect x="-95" y="-14" width="190" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
-      <circle cx="-75" cy="0" r="3" fill="#bc8cff" />
-      <text x="6" y="4" text-anchor="middle" class="tech-chip">AUTONOMOUS AI CORE</text>
-    </g>
-
-    <!-- Chip 4: Next.js & TypeScript -->
+    <!-- Chip 4: Autonomous AI Core -->
     <g transform="translate(325, 0)">
       <rect x="-85" y="-14" width="170" height="28" rx="14" fill="#161b22" stroke="#30363d" stroke-width="1" />
-      <circle cx="-65" cy="0" r="3" fill="#3fb950" />
-      <text x="6" y="4" text-anchor="middle" class="tech-chip">FULL-STACK TECH</text>
+      <circle cx="-65" cy="0" r="3" fill="#bc8cff" />
+      <text x="6" y="4" text-anchor="middle" class="tech-chip">AUTONOMOUS AI</text>
     </g>
   </g>
 </svg>
